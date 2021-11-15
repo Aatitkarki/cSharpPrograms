@@ -1,0 +1,7 @@
+D:\College\ditnet\Tutorial5\Tutorial5\bin\Debug\Tutorial5.exe.config
+D:\College\ditnet\Tutorial5\Tutorial5\bin\Debug\Tutorial5.exe
+D:\College\ditnet\Tutorial5\Tutorial5\bin\Debug\Tutorial5.pdb
+D:\College\ditnet\Tutorial5\Tutorial5\obj\Debug\Tutorial5.csproj.AssemblyReference.cache
+D:\College\ditnet\Tutorial5\Tutorial5\obj\Debug\Tutorial5.csproj.CoreCompileInputs.cache
+D:\College\ditnet\Tutorial5\Tutorial5\obj\Debug\Tutorial5.exe
+D:\College\ditnet\Tutorial5\Tutorial5\obj\Debug\Tutorial5.pdb
